@@ -228,7 +228,7 @@ make b  # Test bonus functions
 
 ## 👤 Author
 
-**Your Name**
+**Jabir Gaadi**
 - 1337 Login: `jgaadi`
 - GitHub: [@Jabir1337](https://github.com/Jabir1337)
 
